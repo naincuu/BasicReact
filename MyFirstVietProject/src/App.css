@@ -1,0 +1,16 @@
+h1{
+    color:brown;
+    background-color: black;
+    text-align: center;
+
+}
+lable{
+    font-weight:bolder;
+}
+
+button{
+    background-color: brown;
+    color: bisque;
+    padding: 9px;
+    border-radius: 9px;
+}
